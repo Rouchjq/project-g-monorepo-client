@@ -1,0 +1,9 @@
+{
+  "name": "project-g-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/project-g-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["project-g"],
+  "// targets": "to see all targets run: nx show project project-g-e2e --web",
+  "targets": {}
+}
